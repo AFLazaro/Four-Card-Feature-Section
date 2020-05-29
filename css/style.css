@@ -125,7 +125,7 @@ h1:last-of-type {
 .attribution a { color: hsl(228, 45%, 44%); }
 
 /*** MOBILE LAYOUT ***/
-@media only screen and (max-width: 376px){
+@media only screen and (max-width: 1270px){
     h1 {
         font-size: 2.7rem;
     }
